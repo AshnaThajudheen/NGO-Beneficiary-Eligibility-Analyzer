@@ -1,0 +1,151 @@
+ApplicantName,Age,FamilyIncome,FamilyMembers,EmploymentStatus,EducationLevel,DisabilityStatus,EligibilityStatus
+Rahul 0,40,547537,4,Unemployed,Undergraduate,No,Not Eligible
+Sanjay 1,40,624221,7,Unemployed,Undergraduate,No,Eligible
+Akhil 2,42,507780,8,Unemployed,Postgraduate,No,Not Eligible
+Nisha 3,51,148403,4,Unemployed,Graduate,Yes,Eligible
+Nisha 4,41,64782,2,Part-time,Postgraduate,No,Not Eligible
+Kiran 5,20,126737,3,Unemployed,Graduate,No,Eligible
+Vivek 6,32,256109,8,Employed,Diploma,Yes,Eligible
+Meera 7,34,240064,2,Part-time,Graduate,Yes,Eligible
+Anu 8,42,340347,5,Unemployed,Undergraduate,Yes,Not Eligible
+Kiran 9,19,536425,3,Unemployed,Undergraduate,Yes,Eligible
+Divya 10,51,254596,8,Part-time,Postgraduate,Yes,Eligible
+Anu 11,41,619741,5,Employed,Diploma,Yes,Eligible
+Asha 12,49,796240,8,Employed,Diploma,Yes,Eligible
+Asha 13,48,119062,8,Employed,Graduate,Yes,Eligible
+Arjun 14,30,70154,8,Employed,Postgraduate,No,Eligible
+Arjun 15,39,559593,4,Unemployed,Graduate,Yes,Eligible
+Akhil 16,32,67062,6,Unemployed,Graduate,Yes,Eligible
+Rahul 17,47,147109,2,Employed,Postgraduate,No,Eligible
+Akhil 18,39,739662,5,Part-time,Graduate,No,Not Eligible
+Rahul 19,24,717738,5,Part-time,Graduate,No,Not Eligible
+Ajay 20,26,448661,7,Unemployed,Postgraduate,No,Not Eligible
+Asha 21,37,332990,3,Part-time,Diploma,No,Not Eligible
+Anu 22,41,124190,6,Unemployed,Undergraduate,No,Eligible
+Arjun 23,57,214338,3,Unemployed,Diploma,Yes,Eligible
+Kiran 24,47,791178,4,Employed,Diploma,Yes,Not Eligible
+Asha 25,32,278291,2,Part-time,Graduate,No,Not Eligible
+Priya 26,40,724808,4,Unemployed,Diploma,No,Eligible
+Anu 27,58,194698,8,Employed,Diploma,No,Eligible
+Akhil 28,23,337458,4,Part-time,Postgraduate,No,Not Eligible
+Ravi 29,57,623032,7,Unemployed,Undergraduate,Yes,Eligible
+Rahul 30,26,518824,3,Part-time,Undergraduate,No,Not Eligible
+Vivek 31,23,324594,8,Part-time,Postgraduate,Yes,Eligible
+Vivek 32,29,457351,8,Unemployed,Undergraduate,Yes,Eligible
+Priya 33,24,714255,4,Employed,Graduate,No,Not Eligible
+Asha 34,19,59988,2,Part-time,Graduate,No,Not Eligible
+Vivek 35,34,689003,6,Part-time,Diploma,Yes,Eligible
+Sanjay 36,54,180868,8,Unemployed,Graduate,No,Eligible
+Sneha 37,58,573145,8,Employed,Graduate,Yes,Eligible
+Ravi 38,22,347312,2,Part-time,Diploma,No,Not Eligible
+Ajay 39,25,178182,3,Unemployed,Undergraduate,Yes,Not Eligible
+Asha 40,36,725590,4,Part-time,Diploma,Yes,Not Eligible
+Anu 41,39,619105,8,Unemployed,Diploma,Yes,Eligible
+Asha 42,21,455487,3,Unemployed,Graduate,Yes,Eligible
+Anu 43,55,690238,4,Employed,Postgraduate,Yes,Not Eligible
+Ravi 44,39,375241,7,Part-time,Graduate,No,Not Eligible
+Divya 45,57,737926,4,Part-time,Undergraduate,No,Eligible
+Asha 46,24,416830,5,Part-time,Postgraduate,No,Not Eligible
+Ravi 47,55,351454,7,Employed,Undergraduate,No,Not Eligible
+Ajay 48,20,409391,8,Employed,Graduate,No,Not Eligible
+Akhil 49,25,240008,3,Part-time,Undergraduate,Yes,Eligible
+Vivek 50,29,466978,8,Employed,Graduate,Yes,Not Eligible
+Rahul 51,29,122743,8,Employed,Undergraduate,No,Eligible
+Priya 52,20,339806,3,Part-time,Graduate,Yes,Not Eligible
+Vivek 53,32,475045,7,Employed,Graduate,No,Not Eligible
+Meera 54,19,417896,7,Employed,Undergraduate,Yes,Eligible
+Divya 55,56,301314,2,Employed,Postgraduate,No,Not Eligible
+Ravi 56,27,467166,3,Employed,Graduate,No,Not Eligible
+Akhil 57,41,239008,6,Employed,Postgraduate,No,Eligible
+Ravi 58,59,733223,2,Unemployed,Undergraduate,Yes,Eligible
+Vivek 59,46,471062,8,Employed,Postgraduate,Yes,Eligible
+Ajay 60,56,749326,2,Unemployed,Graduate,No,Not Eligible
+Ajay 61,38,755801,5,Part-time,Postgraduate,Yes,Not Eligible
+Akhil 62,39,321698,7,Unemployed,Graduate,No,Not Eligible
+Arjun 63,41,574561,3,Unemployed,Graduate,Yes,Not Eligible
+Meera 64,54,632633,5,Part-time,Diploma,No,Not Eligible
+Arjun 65,45,564909,4,Part-time,Diploma,Yes,Eligible
+Akhil 66,42,497214,4,Unemployed,Undergraduate,Yes,Eligible
+Ravi 67,25,156159,2,Unemployed,Graduate,No,Not Eligible
+Vivek 68,40,672637,6,Part-time,Diploma,Yes,Not Eligible
+Divya 69,59,208266,4,Part-time,Graduate,No,Not Eligible
+Sanjay 70,45,66288,8,Employed,Graduate,Yes,Eligible
+Sanjay 71,38,489734,8,Employed,Postgraduate,Yes,Eligible
+Priya 72,23,118828,7,Unemployed,Diploma,No,Eligible
+Nisha 73,44,510958,5,Part-time,Postgraduate,Yes,Eligible
+Vivek 74,35,677684,2,Employed,Diploma,Yes,Not Eligible
+Vivek 75,41,290883,6,Employed,Graduate,No,Not Eligible
+Rahul 76,40,160677,2,Part-time,Postgraduate,Yes,Eligible
+Meera 77,47,511603,7,Unemployed,Undergraduate,Yes,Not Eligible
+Divya 78,58,566836,7,Part-time,Graduate,No,Not Eligible
+Ravi 79,20,611159,7,Unemployed,Undergraduate,No,Not Eligible
+Rahul 80,53,265568,3,Part-time,Postgraduate,No,Not Eligible
+Rahul 81,31,339133,6,Part-time,Undergraduate,No,Not Eligible
+Divya 82,50,472496,7,Unemployed,Postgraduate,Yes,Eligible
+Priya 83,54,63795,3,Part-time,Undergraduate,Yes,Eligible
+Anu 84,31,793090,4,Employed,Postgraduate,Yes,Eligible
+Ajay 85,48,376360,6,Part-time,Diploma,Yes,Eligible
+Arjun 86,56,128720,3,Part-time,Diploma,No,Not Eligible
+Asha 87,51,311043,3,Employed,Graduate,Yes,Not Eligible
+Sneha 88,20,68821,6,Employed,Graduate,No,Eligible
+Asha 89,40,314230,2,Unemployed,Postgraduate,Yes,Eligible
+Sneha 90,33,594166,4,Part-time,Undergraduate,No,Not Eligible
+Ajay 91,35,654643,6,Part-time,Graduate,Yes,Eligible
+Vivek 92,41,574048,7,Unemployed,Undergraduate,No,Eligible
+Ajay 93,41,497655,7,Employed,Graduate,Yes,Eligible
+Asha 94,38,227524,4,Part-time,Postgraduate,No,Not Eligible
+Ravi 95,37,59373,4,Employed,Undergraduate,No,Not Eligible
+Asha 96,40,431221,4,Employed,Graduate,No,Eligible
+Kiran 97,31,430392,2,Unemployed,Undergraduate,No,Not Eligible
+Meera 98,42,519840,7,Part-time,Postgraduate,Yes,Eligible
+Rahul 99,42,696797,8,Unemployed,Graduate,No,Not Eligible
+Sanjay 100,45,306839,7,Unemployed,Graduate,Yes,Eligible
+Anu 101,32,400762,6,Unemployed,Postgraduate,Yes,Eligible
+Vivek 102,24,517539,2,Part-time,Graduate,No,Eligible
+Sneha 103,52,703035,5,Part-time,Diploma,No,Eligible
+Sanjay 104,38,784420,5,Employed,Undergraduate,Yes,Eligible
+Ajay 105,28,778972,7,Employed,Diploma,No,Not Eligible
+Ajay 106,45,492055,7,Part-time,Graduate,Yes,Eligible
+Anu 107,59,595139,4,Unemployed,Diploma,No,Not Eligible
+Kiran 108,56,651975,2,Part-time,Undergraduate,Yes,Not Eligible
+Nisha 109,28,305284,4,Unemployed,Postgraduate,No,Not Eligible
+Nisha 110,41,767096,7,Employed,Diploma,Yes,Eligible
+Nisha 111,43,455419,3,Employed,Graduate,No,Eligible
+Anu 112,47,466415,8,Unemployed,Graduate,Yes,Eligible
+Sneha 113,42,541601,8,Employed,Diploma,Yes,Eligible
+Meera 114,51,358073,2,Unemployed,Graduate,No,Not Eligible
+Asha 115,42,676627,2,Unemployed,Diploma,No,Not Eligible
+Akhil 116,39,653574,7,Part-time,Undergraduate,Yes,Eligible
+Nisha 117,51,169818,8,Employed,Diploma,Yes,Eligible
+Anu 118,24,581923,3,Employed,Undergraduate,Yes,Not Eligible
+Sneha 119,40,338658,2,Part-time,Postgraduate,No,Not Eligible
+Sneha 120,21,138805,2,Employed,Postgraduate,No,Not Eligible
+Sneha 121,20,447509,6,Employed,Undergraduate,No,Eligible
+Vivek 122,29,695512,3,Part-time,Postgraduate,No,Not Eligible
+Sanjay 123,23,364398,3,Part-time,Postgraduate,No,Not Eligible
+Asha 124,45,473742,7,Employed,Postgraduate,Yes,Eligible
+Sanjay 125,60,432689,5,Unemployed,Diploma,No,Eligible
+Arjun 126,37,563036,4,Part-time,Undergraduate,No,Not Eligible
+Nisha 127,19,605780,7,Part-time,Graduate,Yes,Not Eligible
+Nisha 128,37,471685,3,Employed,Graduate,Yes,Not Eligible
+Kiran 129,19,504439,8,Unemployed,Diploma,No,Eligible
+Akhil 130,46,519845,3,Employed,Graduate,No,Not Eligible
+Akhil 131,36,724071,7,Employed,Undergraduate,No,Eligible
+Asha 132,56,247217,2,Part-time,Diploma,No,Not Eligible
+Sanjay 133,34,423126,5,Unemployed,Graduate,No,Not Eligible
+Ravi 134,35,617034,7,Unemployed,Undergraduate,No,Eligible
+Anu 135,27,468009,7,Unemployed,Undergraduate,Yes,Not Eligible
+Divya 136,57,219741,6,Part-time,Diploma,Yes,Eligible
+Priya 137,56,749157,7,Employed,Diploma,No,Not Eligible
+Sneha 138,41,357635,8,Part-time,Graduate,Yes,Eligible
+Divya 139,25,56232,3,Unemployed,Graduate,No,Eligible
+Meera 140,48,297268,3,Unemployed,Graduate,No,Not Eligible
+Sanjay 141,28,248128,3,Employed,Diploma,No,Eligible
+Nisha 142,45,557726,7,Part-time,Postgraduate,Yes,Eligible
+Vivek 143,33,566569,5,Unemployed,Diploma,Yes,Eligible
+Rahul 144,48,700827,4,Part-time,Graduate,No,Not Eligible
+Priya 145,43,127505,8,Employed,Graduate,Yes,Eligible
+Sneha 146,44,128355,6,Employed,Graduate,No,Eligible
+Asha 147,38,570953,7,Part-time,Undergraduate,Yes,Eligible
+Ravi 148,33,547282,3,Unemployed,Diploma,Yes,Eligible
+Kiran 149,22,212734,8,Employed,Postgraduate,Yes,Not Eligible

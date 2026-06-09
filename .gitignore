@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+ngo.db
+*.db
+.env
+.vscode/
