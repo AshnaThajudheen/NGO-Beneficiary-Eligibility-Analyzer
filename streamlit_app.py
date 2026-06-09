@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://ngo-beneficiary-eligibility-analyzer.onrender.com"
 
 st.title("NGO Beneficiary Eligibility Analyzer")
 
